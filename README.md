@@ -1,4 +1,4 @@
-# Hello World, I'm S'the 👋
+# Hello World, I'm S'the 👋🏾
 
 - 🔭 I am a Data Engineer in the making, currently learning through Umuzi.org
 - 🌱 I’m currently learning Python, Java, HTML and CSS
